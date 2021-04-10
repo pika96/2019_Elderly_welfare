@@ -46,7 +46,7 @@
 [최종 발표](https://github.com/pika96/2019_Elderly_welfare/blob/master/%EB%B0%9C%ED%91%9C%20%EC%9E%90%EB%A3%8C/%EC%B5%9C%EC%A2%85%20%EB%B0%9C%ED%91%9C.pdf)
 
 ## 시연 연상
-<iframe width="560" height="315" src="https://youtu.be/WG8sgbGD0lc" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://youtu.be/WG8sgbGD0lc" frameborder="0" gesture="media" allowfullscreen=""></iframe>
 
 ## 느낀 점
 - 데이터 베이스를 이해하고 활용하는 것에 중점을 두어 다른 부분은 신경 못썼지만 데이터 베이스에 대해 알 수 있었다.
